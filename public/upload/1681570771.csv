@@ -1,0 +1,18 @@
+Table 1
+Product ID,Types,Brand,Model,Capacity,Status
+4450,Smartphone,Apple,iPhone SE,2GB/16GB,Sold
+4768,Smartphone,Apple,iPhone SE,2GB/32GB,Sold
+4451,Smartphone,Apple,iPhone SE,2GB/64GB,Sold
+4574,Smartphone,Apple,iPhone SE,2GB/128GB,Sold
+6039,Smartphone,Apple,iPhone SE (2020),3GB/64GB,Buy
+6039,Smartphone,Apple,iPhone SE (2020),3GB/64GB,Buy
+6039,Smartphone,Apple,iPhone SE (2020),3GB/64GB,Buy
+4574,Smartphone,Apple,iPhone SE,2GB/128GB,Buy
+4574,Smartphone,Apple,iPhone SE,2GB/128GB,Sold
+4451,Smartphone,Apple,iPhone SE,2GB/64GB,Sold
+4768,Smartphone,Apple,iPhone SE,2GB/32GB,Sold
+4768,Smartphone,Apple,iPhone SE,2GB/32GB,Buy
+4451,Smartphone,Apple,iPhone SE,2GB/64GB,Buy
+4451,Smartphone,Apple,iPhone SE,2GB/64GB,Buy
+4450,Smartphone,Apple,iPhone SE,2GB/16GB,Sold
+4450,Smartphone,Apple,iPhone SE,2GB/16GB,Buy
